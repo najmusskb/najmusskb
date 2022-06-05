@@ -1,4 +1,4 @@
-![I am Web Developer](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/278447320_1584646518577551_5250760086736838067_n.jpg?stp=dst-jpg_p640x640&_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHuJCK-EdCWSgn2Rc0HnoP-yQUlhoQJobfJBSWGhAmht0eHvnhM-Scwi3n4hE-xurwmUWd4M_hUsnrSEDURjOEh&_nc_ohc=0qS3FA39mgEAX9VM6RK&_nc_ht=scontent.fdac24-1.fna&oh=00_AT8KJeXT7BmLMf-tIvZa_UzdLBLh2bZQMyyDUTpbFhneJw&oe=62A0D479)
+![I am Web Developer]
 
 ### Hi there 👋, This Is Najmus Sakib
 #### I am Web Developer
