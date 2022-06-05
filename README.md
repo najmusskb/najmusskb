@@ -2,9 +2,6 @@
 # I am Web Developer
 
 
-Mission - 2022
-
-Skills: java script/Bootstrup/CSS5/React
 
 - 🔭 I’m currently working on BKTTC - Bangladesh-Korea Technical Training Centre 
 - 🌱 I’m currently learning java script 
